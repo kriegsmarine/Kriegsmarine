@@ -6,7 +6,8 @@
 
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=lhskw40zfa492qi755ak7dybk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lhskw40zfa492qi755ak7dybk&cover_image=false&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kriegsmarine)](https://open.spotify.com/user/kriegsmarine)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lhskw40zfa492qi755ak7dybk&width=400)](https://open.spotify.com/user/kriegsmarine)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
