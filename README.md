@@ -72,7 +72,7 @@ Kriegsmarinexi
 <a href="https://twitter.com/kriegsmarinexii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kriegsmarinexii" height="30" width="40" /></a>
 <a href="https://fb.com/kriegsmarine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kriegsmarine" height="30" width="40" /></a>
 <a href="https://instagram.com/kriegsmarinexii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kriegsmarinexii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kriegsmarine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kriegsmarine" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Kriegsmarine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kriegsmarine" height="30" width="40" /></a>
 </p>
 
 <h4 align="center">📝 𝕿𝖔𝖔𝖑𝖘 𝖆𝖓𝖉 𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝖑𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 👨‍💻 </h4>
