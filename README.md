@@ -67,7 +67,7 @@ Kriegsmarinexi
 </table>
 
 
-<h5 align="left">Connect with me:</h5>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kriegsmarinexii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kriegsmarinexii" height="30" width="40" /></a>
 <a href="https://fb.com/kriegsmarine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kriegsmarine" height="30" width="40" /></a>
