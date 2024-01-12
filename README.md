@@ -1,6 +1,12 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kriegsmarine&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kriegsmarine)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kriegsmarine&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=lhskw40zfa492qi755ak7dybk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lhskw40zfa492qi755ak7dybk&cover_image=false&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kriegsmarine)](https://open.spotify.com/user/kriegsmarine)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
