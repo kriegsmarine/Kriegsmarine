@@ -4,9 +4,7 @@
 <p align="center">
 Listening Spotify
 </br>
-<a href="https://open.spotify.com/user/kriegsmarine">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lhskw40zfa492qi755ak7dybk&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lhskw40zfa492qi755ak7dybk&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lhskw40zfa492qi755ak7dybk&redirect=true)
 </p>
 <h2 align="center">🎌 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🎌</h2>
 <p align="center">
